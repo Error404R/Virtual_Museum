@@ -138,10 +138,8 @@ Artifacts are set up minimum and maximum threshold values , whenever Avtar will 
    
 | Profile | Name | Enrollment Number | 
 | :-------------: | :-------------: | ------------- |
-| <img src='https://dbms.redixolabs.in/img/jprmbt1.jpeg' width='55' height='55'> | Mrityunjaya Tiwari| IIT2019239 
 | <img src='https://dbms.redixolabs.in/img/RAUNAK.jpeg' width='55' height='55'> | Raunak Singh Rathore| IIT2019222
-| <img src='https://dbms.redixolabs.in/img/20210429_210617.jpg' width='55' height='55'>| ADITYA GUPTA| MIT2021006  
-| <img src='https://dbms.redixolabs.in/img/jyoti.jpeg' width='55' height='55'> | Khushbooooo Mam| MIT2021045
+
 
 <hr>
 
