@@ -143,8 +143,3 @@ Artifacts are set up minimum and maximum threshold values , whenever Avtar will 
 
 <hr>
 
-<!-- Important Project Links -->
-## Important Project Links
-* [Website Frontend (only for demo) ](https://error404m.github.io/Virtual_Museum/)
-* [Report Docs](https://error404m.github.io/Virtual_Museum/)
-* [PPT Presentation](https://error404m.github.io/Virtual_Museum/)
